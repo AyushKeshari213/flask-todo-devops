@@ -1,10 +1,10 @@
-# 🚀 Flask‑ToDo DevOps
+#  Flask‑ToDo DevOps
 
 **Automate your simple ToDo API from code to cloud—no manual ops!**
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 Learn how to build a **ToDo list** REST API with Python/Flask and automate its entire lifecycle:
 
@@ -18,7 +18,7 @@ Anyone can follow these copy‑and‑paste steps—no AWS account required unles
 
 ---
 
-## 📂 Repo Structure
+##  Repo Structure
 
 ```text
 flask-todo-devops/
@@ -33,7 +33,7 @@ flask-todo-devops/
 
 ---
 
-## 🛠 Prerequisites
+##  Prerequisites
 
 - **Git** & GitHub account
 - **Docker** installed
